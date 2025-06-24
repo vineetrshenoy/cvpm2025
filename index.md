@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is the CVPM page
 
 [Link to another page](./another-page.html).
 
